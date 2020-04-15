@@ -1,0 +1,37 @@
+[ ] Launched version  install  []     []   []
+[ ] Executable  Program  Telegram Desktop  Telegram
+[ ] Initial working  Program  Telegram Desktop
+[ ] Working  Program  Telegram Desktop
+[ ] Command  \Program  \Telegram Desktop\Telegram
+[ ] Executable  before  Program  Telegram DesktopTelegram
+[ ]  started
+[ ] Connecting  socket  Global\aaebcccccfbbaa{AABACCCD}
+[ ]     instance  Telegram starting server  
+[ ]  logging  'Program  Telegram Desktoplog_start'  'Program  Telegram Desktop'
+[ ] Opened 'Program  Telegram Desktopworking'  reading  previous Telegram Desktop launch   finished properly     
+[ ] Primary screen  
+[ ]   'DAOpenSansRegular' loaded 'DAOpenSansRegular'
+[ ]   'DAOpenSansRegularItalic' loaded 'DAOpenSansRegularItalic'
+[ ]   'DAOpenSansBold' loaded 'DAOpenSansBold'
+[ ]   'DAOpenSansBoldItalic' loaded 'DAOpenSansBoldItalic'
+[ ]   'DAOpenSansSemibold' loaded 'DAOpenSansSemibold'
+[ ]   'DAOpenSansSemiboldItalic' loaded 'DAOpenSansSemiboldItalic'
+[ ]   reading settings
+[ ]   reading encrypted settings
+[ ]   Loaded cached  
+[ ] OpenAL Logging   
+[ ]  Playback Devices OpenAL 
+[ ]  Playback Default Device OpenAL 
+[ ]  Capture Devices OpenAL   РњРёРєСЂРѕС„ Realtek  Definition 
+[ ]  Capture Default Device OpenAL   РњРёРєСЂРѕС„ Realtek  Definition 
+[ ]   reading 
+[ ]   reading encrypted 
+[ ]   reading encrypted  settings
+[ ]   encrypted  settings 
+[ ]   reading encrypted  
+[ ]     current   destroy 
+[ ]    
+[ ] Export  Destroy    controller removal
+[ ] Window Shadow            
+[ ]   request        CHAT_ADMIN_REQUIRED
+[ ]   request        CHAT_ADMIN_REQUIRED

@@ -1,0 +1,37 @@
+[2019.11.09 22:02:21] Launched version: 1009001, install beta: [TRUE], alpha: 0, debug mode: [FALSE], test dc: [FALSE]
+[2019.11.09 22:02:21] Executable dir: E:/Program Files (x86)/Telegram Desktop/, name: Telegram.exe
+[2019.11.09 22:02:21] Initial working dir: E:/Program Files (x86)/Telegram Desktop/
+[2019.11.09 22:02:21] Working dir: E:/Program Files (x86)/Telegram Desktop/
+[2019.11.09 22:02:21] Command line: E:\Program Files (x86)\Telegram Desktop\Telegram.exe
+[2019.11.09 22:02:20] Executable path before check: E:/Program Files (x86)/Telegram Desktop/Telegram.exe
+[2019.11.09 22:02:21] Logs started
+[2019.11.09 22:02:21] Connecting local socket to Global\aa3eb213c31c3944c0c1cfb90b586aa3-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2019.11.09 22:02:21] This is the only instance of Telegram, starting server and app...
+[2019.11.09 22:02:21] Moved logging from 'E:/Program Files (x86)/Telegram Desktop/log_start0.txt' to 'E:/Program Files (x86)/Telegram Desktop/log.txt'!
+[2019.11.09 22:02:21] Opened 'E:/Program Files (x86)/Telegram Desktop/tdata/working' for reading, the previous Telegram Desktop launch was not finished properly :( Crash log size: 0
+[2019.11.09 22:02:21] Primary screen DPI: 96
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansBold.ttf' loaded 'DAOpenSansBold'
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansBoldItalic.ttf' loaded 'DAOpenSansBoldItalic'
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansSemibold.ttf' loaded 'DAOpenSansSemibold'
+[2019.11.09 22:02:21] Font: from ':/gui/fonts/DAOpenSansSemiboldItalic.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2019.11.09 22:02:21] App Info: reading settings...
+[2019.11.09 22:02:21] App Info: reading encrypted settings...
+[2019.11.09 22:02:22] Lang Info: Loaded cached, keys: 2525
+[2019.11.09 22:02:22] OpenAL Logging Level: (not set)
+[2019.11.09 22:02:22] Audio Playback Devices: OpenAL Soft
+[2019.11.09 22:02:22] Audio Playback Default Device: OpenAL Soft
+[2019.11.09 22:02:22] Audio Capture Devices: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Realtek High Definition Audio)
+[2019.11.09 22:02:22] Audio Capture Default Device: OpenAL Soft on РњРёРєСЂРѕС„РѕРЅ (Realtek High Definition Audio)
+[2019.11.09 22:02:23] App Info: reading map...
+[2019.11.09 22:02:23] App Info: reading encrypted map...
+[2019.11.09 22:02:23] App Info: reading encrypted user settings...
+[2019.11.09 22:02:23] App Info: encrypted user settings read.
+[2019.11.09 22:02:23] App Info: reading encrypted mtp data...
+[2019.11.09 22:02:23] MTP Info: read keys, current: 6, to destroy: 0
+[2019.11.09 22:02:23] Map read time: 95
+[2019.11.09 22:02:23] Export Info: Destroy top bar by controller removal.
+[2019.11.09 22:02:24] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2019.11.09 22:02:27] RPC Error: request 31 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2019.11.09 22:02:54] RPC Error: request 42 got fail with code 400, error CHAT_ADMIN_REQUIRED

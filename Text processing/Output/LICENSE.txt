@@ -1,0 +1,383 @@
+EasyList Repository Licences
+
+   Unless otherwise   contents   EasyList repository
+   githubeasylist   licensed    General
+   Public License version    License    option  
+   version  Creative Commons AttributionShareAlike  Unported 
+     option   version     modify  
+    permitted  either licence  required " EasyList authors
+   easylist" should  attributed   source  
+   material  relevant licence   included   repository
+
+   Please     hosted externally  referenced  
+   repository including   limited  subscriptions  
+   EasyList EasyPrivacy EasyList Germany  EasyList   
+   available   conditions permission   granted  
+   respective copyright holders  authorise     material
+
+
+Creative Commons AttributionShareAlike  Unported
+
+     CREATIVE COMMONS CORPORATION         PROVIDE
+      SERVICES DISTRIBUTION   LICENSE   CREATE 
+     ATTORNEYCLIENT RELATIONSHIP CREATIVE COMMONS PROVIDES 
+     INFORMATION   ""  CREATIVE COMMONS  
+     WARRANTIES REGARDING  INFORMATION PROVIDED  DISCLAIMS
+     LIABILITY  DAMAGES RESULTING   
+
+License
+
+      DEFINED   PROVIDED     
+   CREATIVE COMMONS PUBLIC LICENSE ""  "LICENSE"   
+   PROTECTED  COPYRIGHT   APPLICABLE      
+      AUTHORIZED   LICENSE  COPYRIGHT  
+   PROHIBITED
+
+    EXERCISING  RIGHTS    PROVIDED   ACCEPT 
+            LICENSE   EXTENT 
+   LICENSE   CONSIDERED    CONTRACT  LICENSOR GRANTS  
+   RIGHTS CONTAINED   CONSIDERATION   ACCEPTANCE   
+    CONDITIONS
+
+    Definitions
+     "Adaptation"            
+        existing     translation adaptation
+       derivative  arrangement     alterations  
+       literary  artistic   phonogram  performance  includes
+       cinematographic adaptations         
+        recast transformed  adapted including   
+       recognizably derived   original except    
+       constitutes  Collection    considered  Adaptation 
+        purpose   License   avoidance    
+          musical  performance  phonogram 
+       synchronization     relation   moving 
+       "synching"   considered  Adaptation   purpose 
+        License
+     "Collection"   collection  literary  artistic  
+        encyclopedias  anthologies  performances phonograms 
+       broadcasts     subject matter   
+       listed  Section     reason   selection 
+       arrangement   contents constitute intellectual creations
+            included   entirety  unmodified 
+             contributions  constituting
+       separate  independent   themselves  together 
+       assembled   collective     constitutes 
+       Collection    considered  Adaptation  defined 
+         purposes   License
+     "Creative Commons Compatible License"   license  
+       listed  creativecommonscompatiblelicenses  
+        approved  Creative Commons   essentially equivalent
+         License including   minimum because  license 
+       contains      purpose meaning  effect 
+        License Elements   License   explicitly permits
+        relicensing  adaptations    available  
+       license   License   Creative Commons jurisdiction
+       license    License Elements   License
+     "Distribute"    available   public  original 
+       copies     Adaptation  appropriate through  
+        transfer  ownership
+     "License Elements"   following  license
+       attributes  selected  Licensor  indicated    
+        License Attribution ShareAlike
+     "Licensor"   individual individuals entity  entities
+                License
+     "Original Author"       literary  artistic
+         individual individuals entity  entities  created
+            individual  entity   identified 
+       publisher   addition       performance 
+       actors singers musicians dancers   persons  
+        deliver declaim   interpret  otherwise perform
+       literary  artistic   expressions  folklore   
+          phonogram  producer   person   entity
+           sounds   performance   sounds 
+            broadcasts  organization  transmits
+        broadcast
+     ""   literary  artistic  offered  
+          License including without limitation  production
+         literary scientific  artistic domain whatever  
+             expression including digital   
+         pamphlet   writing  lecture address sermon 
+            nature  dramatic  dramaticomusical
+         choreographic   entertainment     musical
+       composition   without   cinematographic   
+        assimilated  expressed   process analogous 
+       cinematography    drawing painting architecture
+       sculpture engraving  lithography  photographic   
+        assimilated  expressed   process analogous 
+       photography    applied   illustration  
+       sketch  dimensional  relative  geography topography
+       architecture  science  performance  broadcast  phonogram 
+       compilation     extent   protected  
+       copyrightable     performed   variety  circus
+       performer   extent    otherwise considered  literary
+        artistic 
+     ""   individual  entity exercising rights  
+       License    previously violated     License
+        respect       received express permission
+         Licensor  exercise rights   License despite 
+       previous violation
+     "Publicly Perform"   perform public recitations   
+         communicate   public  public recitations  
+         process including    wireless   public
+       digital performances   available   public   
+          members   public  access    
+            individually chosen    perform 
+          public     process   communication 
+        public   performances    including  public
+       digital performance  broadcast  rebroadcast    
+        including  sounds  images
+     "Reproduce"    copies       including
+       without limitation    visual recordings    
+       fixation  reproducing fixations    including storage
+         protected performance  phonogram  digital   
+       electronic medium
+
+     Dealing Rights Nothing   License  intended  reduce
+     restrict     copyright  rights arising 
+   limitations  exceptions   provided   connection  
+   copyright protection  copyright    applicable 
+
+    License  Subject     conditions   License
+   Licensor hereby grants   worldwide royalty exclusive
+   perpetual   duration   applicable copyright license 
+   exercise  rights     stated 
+      Reproduce    incorporate      
+       Collections   Reproduce    incorporated  
+       Collections
+      create  Reproduce Adaptations provided   
+       Adaptation including  translation   medium 
+       reasonable   clearly  demarcate  otherwise identify
+        changes     original   example 
+       translation   marked " original   translated 
+       English  Spanish"   modification  indicate " original
+          modified"
+      Distribute  Publicly Perform   including 
+       incorporated  Collections 
+      Distribute  Publicly Perform Adaptations
+       avoidance  
+          waivable Compulsory License Schemes  
+            jurisdictions      collect royalties through
+             statutory  compulsory licensing scheme cannot  waived
+             Licensor reserves  exclusive   collect 
+            royalties   exercise     rights granted 
+             License
+         Waivable Compulsory License Schemes   jurisdictions 
+                collect royalties through  statutory 
+            compulsory licensing scheme   waived  Licensor waives
+             exclusive   collect  royalties   exercise
+                rights granted   License 
+         Voluntary License Schemes  Licensor waives   
+            collect royalties whether individually     
+             Licensor   member   collecting society 
+            administers voluntary licensing schemes   society
+              exercise     rights granted  
+            License
+
+     rights   exercised     formats whether 
+     hereafter devised   rights include    
+    modifications   technically necessary  exercise  rights
+       formats Subject  Section   rights 
+   expressly granted  Licensor  hereby reserved
+
+    Restrictions  license granted  Section    expressly
+    subject   limited   following restrictions
+       Distribute  Publicly Perform     
+          License   include      Uniform
+       Resource Identifier    License     
+         Distribute  Publicly Perform     
+       impose       restrict    
+       License   ability   recipient     exercise 
+       rights granted   recipient      License
+          sublicense      intact  notices
+           License    disclaimer  warranties 
+             Distribute  Publicly Perform  
+       Distribute  Publicly Perform      impose 
+       effective technological measures     restrict 
+       ability   recipient       exercise  rights
+       granted   recipient      License 
+       Section  applies     incorporated   Collection
+           require  Collection     itself
+          subject      License   create 
+       Collection  notice   Licensor     extent
+       practicable remove   Collection  credit  required 
+       Section   requested   create  Adaptation 
+       notice   Licensor     extent practicable
+       remove   Adaptation  credit  required  Section 
+        requested
+       Distribute  Publicly Perform  Adaptation   
+           License    version   License
+          License Elements   License   Creative
+       Commons jurisdiction license either     license
+       version  contains   License Elements   License
+        AttributionShareAlike     Creative Commons
+       Compatible License   license  Adaptation    
+       licenses mentioned     comply     
+       license   license  Adaptation      
+        licenses mentioned       "Applicable
+       License"   comply      Applicable License
+       generally   following provisions    include  
+             Applicable License     
+       Adaptation  Distribute  Publicly Perform    
+         impose     Adaptation  restrict  
+         Applicable License   ability   recipient  
+       Adaptation  exercise  rights granted   recipient 
+           Applicable License     intact 
+       notices     Applicable License    disclaimer
+        warranties        included  
+       Adaptation  Distribute  Publicly Perform   
+       Distribute  Publicly Perform  Adaptation    impose
+        effective technological measures   Adaptation 
+       restrict  ability   recipient   Adaptation   
+       exercise  rights granted   recipient    
+        Applicable License  Section  applies   Adaptation
+        incorporated   Collection     require 
+       Collection    Adaptation itself    subject 
+           Applicable License
+       Distribute  Publicly Perform     Adaptations
+        Collections   unless  request    pursuant
+        Section   intact  copyright notices    
+       provide reasonable   medium     utilizing 
+           Original Author  pseudonym  applicable 
+       supplied    Original Author  Licensor designate
+       another   parties   sponsor institute publishing
+       entity journal  attribution "Attribution Parties" 
+       Licensor' copyright notice   service   
+       reasonable        parties   
+           supplied    extent reasonably
+       practicable      Licensor specifies  
+       associated    unless       
+       copyright notice  licensing information      
+       consistent  Ssection       Adaptation 
+       credit identifying        Adaptation 
+       "French translation     Original Author"  "Screenplay
+         original   Original Author"  credit required 
+        Section    implemented   reasonable manner
+       provided however       Adaptation  Collection
+         minimum  credit  appear   credit  
+       contributing authors   Adaptation  Collection appears 
+           credits    manner    prominent 
+        credits    contributing authors   avoidance
+              credit required   Section 
+        purpose  attribution   manner     
+       exercising  rights   License    implicitly
+        explicitly assert    connection  sponsorship 
+       endorsement   Original Author Licensor  Attribution
+       Parties  appropriate         without
+        separate express  written permission   Original
+       Author Licensor  Attribution Parties
+     Except  otherwise agreed  writing   Licensor    
+       otherwise permitted  applicable    Reproduce Distribute
+        Publicly Perform   either  itself     
+       Adaptations  Collections    distort mutilate modify
+          derogatory action  relation     
+        prejudicial   Original Author'   reputation
+       Licensor agrees    jurisdictions    
+        exercise    granted  Section    License
+           Adaptations   deemed    distortion
+       mutilation modification   derogatory action prejudicial 
+        Original Author'   reputation  Licensor  
+         assert  appropriate  Section   fullest extent
+       permitted   applicable national   enable  
+       reasonably exercise    Section    License
+          Adaptations   otherwise
+
+    Representations Warranties  Disclaimer
+
+   UNLESS OTHERWISE MUTUALLY AGREED    PARTIES  WRITING LICENSOR
+   OFFERS       REPRESENTATIONS  WARRANTIES  
+    CONCERNING   EXPRESS IMPLIED STATUTORY  OTHERWISE
+   INCLUDING WITHOUT LIMITATION WARRANTIES   MERCHANTIBILITY
+   FITNESS   PARTICULAR PURPOSE NONINFRINGEMENT   ABSENCE 
+   LATENT   DEFECTS ACCURACY   PRESENCE  ABSENCE 
+   ERRORS WHETHER   DISCOVERABLE  JURISDICTIONS   
+    EXCLUSION  IMPLIED WARRANTIES   EXCLUSION    
+   
+
+    Limitation  Liability EXCEPT   EXTENT REQUIRED  APPLICABLE
+        LICENSOR  LIABLE      THEORY 
+    SPECIAL INCIDENTAL CONSEQUENTIAL PUNITIVE  EXEMPLARY DAMAGES
+   ARISING    LICENSE         LICENSOR
+     ADVISED   POSSIBILITY   DAMAGES
+
+    Termination
+      License   rights granted hereunder  terminate
+       automatically   breach        License
+       Individuals  entities   received Adaptations 
+       Collections     License however   
+        licenses terminated provided  individuals  entities
+       remain   compliance   licenses Sections    
+           survive  termination   License
+     Subject      conditions  license granted 
+        perpetual   duration   applicable copyright  
+        Notwithstanding   Licensor reserves   
+       release    different license    
+       distributing      provided however   
+       election     withdraw  License   
+       license      required   granted  
+          License   License  continue  
+         effect unless terminated  stated 
+
+    Miscellaneous
+        Distribute  Publicly Perform    
+       Collection  Licensor offers   recipient  license  
+             conditions   license granted  
+         License
+        Distribute  Publicly Perform  Adaptation
+       Licensor offers   recipient  license   original  
+           conditions   license granted   
+        License
+       provision   License  invalid  unenforceable 
+       applicable     affect  validity  enforceability
+         remainder      License  without further
+       action   parties   agreement  provision  
+       reformed   minimum extent necessary    provision
+         enforceable
+        provision   License   deemed waived  
+       breach consented  unless  waiver  consent   
+       writing  signed      charged   waiver 
+       consent
+      License constitutes  entire agreement between  parties
+        respect    licensed    
+       understandings agreements  representations  respect  
+         specified  Licensor      
+       additional provisions   appear   communication 
+         License    modified without  mutual written
+       agreement   Licensor  
+      rights granted    subject matter referenced 
+        License  drafted utilizing  terminology   
+       Convention   Protection  Literary  Artistic  
+       amended  September     Convention   
+        Copyright Treaty     Performances  Phonograms
+       Treaty     Universal Copyright Convention  revised
+            rights  subject matter  effect 
+        relevant jurisdiction    License   sought 
+        enforced according   corresponding provisions  
+       implementation   treaty provisions   applicable
+       national    standard   rights granted 
+       applicable copyright  includes additional rights  granted
+         License  additional rights  deemed  
+       included   License  License   intended  restrict
+        license   rights  applicable 
+
+Creative Commons Notice
+
+     Creative Commons       License   
+     warranty whatsoever  connection    Creative Commons
+        liable         theory  
+     damages whatsoever including without limitation  general
+     special incidental  consequential damages arising  connection
+       license Notwithstanding  foregoing   sentences 
+     Creative Commons  expressly identified itself   Licensor
+     hereunder     rights  obligations  Licensor
+
+     Except   limited purpose  indicating   public  
+       licensed    Creative Commons   authorize
+        either    trademark "Creative Commons"  
+     related trademark    Creative Commons without  
+     written consent  Creative Commons  permitted    
+     compliance  Creative Commons' current trademark 
+     guidelines    published   website  otherwise 
+     available  request       avoidance 
+       trademark restriction       License
+
+     Creative Commons   contacted  creativecommons

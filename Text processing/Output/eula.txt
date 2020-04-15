@@ -1,0 +1,151 @@
+DEVELOPER EXPRESS    LICENSE AGREEMENT
+
+DevExpress  Subscription SOFTWARE COMPONENT PRODUCT 
+DevExpress Dashboard SOFTWARE COMPONENT PRODUCT 
+DevExpress Document Server SOFTWARE COMPONENT PRODUCT 
+DevExpress Windows   Subscription 
+DevExpress WinForms Subscription SOFTWARE COMPONENT PRODUCT 
+eXpressApp Framework 
+Copyright   Developer Express 
+
+ LICENSE AGREEMENT 
+  SOFTWARE DEVELOPMENT PRODUCT INCLUDED   DISTRIBUTION
+
+IMPORTANT  CAREFULLY  DEVELOPER EXPRESS  "DEVEXPRESS"  License Agreement ""    agreement between   developer  software applications "Developer  "  DEVEXPRESS   DEVEXPRESS products frameworks components source   intermediate   printed materials  "online"  electronic documentation "SOFTWARE DEVELOPMENT PRODUCT" contained   distribution
+
+ installing copying  otherwise   SOFTWARE DEVELOPMENT PRODUCT                            INSTALL   EVALUATE  REPLICATE   MANNER     PORTION   SOFTWARE DEVELOPMENT PRODUCT
+
+ SOFTWARE DEVELOPMENT PRODUCT  licensed   
+
+RIGOROUS ENFORCEMENT  INTELLECTUAL PROPERTY RIGHTS    licensed      SOFTWARE DEVELOPMENT PRODUCT  purchased     intent  reverse engineer decompile create derivative    exploitation  unauthorized transfer   DEVEXPRESS intellectual property   secrets  include  exposed methods  source   provided  licensed        PRODUCT created   result   judged illegal  definition   applicable     resale  intellectual property  created derivatives  obtained   prosecuted   fullest extent    federal  international 
+
+   LICENSE
+
+Subject      conditions    DEVEXPRESS grants Developer    exclusive transferable license  install    SOFTWARE DEVELOPMENT PRODUCT included   distribution  authorized 
+
+ INDIVIDUAL  LICENSE
+
+    individual     SOFTWARE DEVELOPMENT PRODUCT   install     SOFTWARE DEVELOPMENT PRODUCT  purchasing    subscription  DEVEXPRESS   authorized resellers   Section       information 
+
+
+ BUSINESS  GOVERNMENT  LICENSE
+
+DEVEXPRESS licenses  SOFTWARE DEVELOPMENT PRODUCT   developer      business  government entity  employees  install     SOFTWARE DEVELOPMENT PRODUCT  purchasing    subscription  DEVEXPRESS   authorized resellers   developer   SOFTWARE DEVELOPMENT PRODUCT   Section       information 
+
+ THIRTY   EVALUATION   LICENSE
+
+  SOFTWARE DEVELOPMENT PRODUCT   obtained  marked   ""  "EVALUATION"   install     SOFTWARE DEVELOPMENT PRODUCT  evaluation purposes    period   calendar      installation "Evaluation Period"  expiration   Evaluation Period  SOFTWARE DEVELOPMENT PRODUCT   uninstalled   copies destroyed 
+
+   CREATE applications   software projects   SOFTWARE DEVELOPMENT PRODUCT      THIRTY   EVALUATION   LICENSE
+
+   REDISTRIBUTE    SOFTWARE DEVELOPMENT PRODUCT distribution    evaluation   version   SOFTWARE DEVELOPMENT PRODUCT
+
+ LIMITATIONS  REVERSE ENGINEERING DECOMPILATION  DISASSEMBLY
+ 
+   reverse engineer decompile create derivative   disassemble  SOFTWARE DEVELOPMENT PRODUCT   SOFTWARE DEVELOPMENT PRODUCT  purchased     intent  reverse engineer decompile create derivative    exploitation  unauthorized transfer   DEVEXPRESS intellectual property   secrets  include  exposed methods  source   provided  licensed        PRODUCT created   result   judged illegal  definition    resale  intellectual property  created derivatives  obtained   prosecuted   fullest extent    federal  international 
+
+ SEPARATION  COMPONENTS
+ 
+ SOFTWARE DEVELOPMENT PRODUCT  licensed   single PRODUCT  SOFTWARE DEVELOPMENT PRODUCT   constituent    provided redistributables    reverse engineered decompiled disassembled  separated       computer  placed  distribution   resale  individual creations  Developer    provision  source   included   SOFTWARE DEVELOPMENT PRODUCT   constitute transfer    rights     resale  distribution     portion   source   intellectual property   prosecuted   fullest extent   applicable  federal  international   DEVEXPRESS libraries source  redistributables    remain DEVEXPRESS' exclusive property    distribute   except   DEVEXPRESS  expressly designated  Redistributable
+
+ RENTAL
+ 
+        SOFTWARE DEVELOPMENT PRODUCT
+
+ TRANSFER
+ 
+   permanently  temporarily transfer    rights      individual  business  government entity without  written approval  DEVEXPRESS Regardless   modifications     regardless     compile   package  programs   circumstances   libraries Redistributables   included   SOFTWARE DEVELOPMENT PRODUCT including  portions thereof    developing programs  anyone        licensed Developer         libraries redistributables      SOFTWARE DEVELOPMENT PRODUCT   portions thereof  developing programs created   SOFTWARE DEVELOPMENT PRODUCT     copies   Redistributables   developers    reproduce  distribute  DEVEXPRESS documentation without  permission  DEVEXPRESS
+
+ REDISTRIBUTION
+ 
+ SOFTWARE DEVELOPMENT PRODUCT  include certain  "REDISTRIBUTABLE" intended  distribution       software applications   create Redistributables include  example   identified  printed   documentation  redistributable     preselected  deployment   install utility provided   SOFTWARE DEVELOPMENT PRODUCT     circumstances  REDISTRIBUTABLES   SOFTWARE DEVELOPMENT PRODUCT     specifically designated    DEVEXPRESS
+
+    DEVELOPER   CREATE   REDISTRIBUTABLE  PRODUCT  DIRECTLY  INDIRECTLY COMPETES   SOFTWARE DEVELOPMENT PRODUCT  UTILIZING    PORTION   DEVEXPRESS SOFTWARE DEVELOPMENT PRODUCT
+ 
+Distribution   Developer     design  '  ' executables  source  distributed  Developer    DEVEXPRESS     SOFTWARE DEVELOPMENT PRODUCT   explicitly identified   redistributable   strictly prohibited  Developer     develop software applications  provide  application programming interface   SOFTWARE DEVELOPMENT PRODUCT   SOFTWARE DEVELOPMENT PRODUCT  modified
+ 
+ Developer     distribute  SOFTWARE DEVELOPMENT PRODUCT   format  others  development  application compilation purposes 
+
+    individual business  government entity     SOFTWARE DEVELOPMENT PRODUCT   purchased    subscription  described  Section       reproduce  distribute copies   REDISTRIBUTABLES provided   copies     original    REDISTRIBUTABLES included   SOFTWARE DEVELOPMENT PRODUCT  modified versions   REDISTRIBUTABLES   provided    DEVEXPRESS     create Copies  REDISTRIBUTABLES    distributed      purpose  executing application programs permitted       created   SOFTWARE DEVELOPMENT PRODUCT
+
+REDISTRIBUTABLES   following installed   installed folder  considered redistributables      Section      licensing  subscription 
+ redistribution allowed   versions   distribution
+
+Developer     REDISTRIBUTE     SOFTWARE DEVELOPMENT PRODUCT distribution    evaluation    Resale   version   SOFTWARE DEVELOPMENT PRODUCT
+
+ COPYRIGHT
+ 
+   copyrights     SOFTWARE DEVELOPMENT PRODUCT including   limited   DEVEXPRESS trademarks copywritten images  source  intermediate  packages photographs redistributables animations      "applets" incorporated   SOFTWARE DEVELOPMENT PRODUCT  accompanying printed materials   copies   SOFTWARE DEVELOPMENT PRODUCT    DEVEXPRESS   subsidiaries 
+
+ SOFTWARE DEVELOPMENT PRODUCT  protected  copyright   international treaty provisions  therefore     SOFTWARE DEVELOPMENT PRODUCT    copyrighted material except    install    SOFTWARE DEVELOPMENT PRODUCT  described   
+
+ TWELVE   SUBSCRIPTION  UPDATES
+
+DEVEXPRESS licenses  SOFTWARE DEVELOPMENT PRODUCT   subscription   subscription      period     purchase Developer     eligible  receive     updates   SOFTWARE DEVELOPMENT PRODUCT during    period  expiration   subscription  months     original purchase  Developer    optionally   SOFTWARE DEVELOPMENT PRODUCT subscription   additional   period   subsequent  thereafter    continue receiving    updates   SOFTWARE DEVELOPMENT PRODUCT  DEVEXPRESS 
+
+  SOFTWARE DEVELOPMENT PRODUCT  labeled   update    properly licensed  obtain  updated SOFTWARE DEVELOPMENT PRODUCT  SOFTWARE DEVELOPMENT PRODUCT labeled   update replaces  supplements  SOFTWARE DEVELOPMENT PRODUCT  formed     eligibility   update  together constitutes  single PRODUCT      updated PRODUCT  accordance       
+
+Pricing     SOFTWARE DEVELOPMENT PRODUCT subscription   subsequent renewal   subscription  listed  devexpress  subject  change   without notice
+
+REDISTRIBUTABLES listed     dependent       subscription purchased  DEVEXPRESS 
+
+DEVEXPRESS reserves    discontinue  SOFTWARE DEVELOPMENT PRODUCT   constituents   
+
+ DOWNLOAD  SOFTWARE DEVELOPMENT PRODUCT
+ 
+ SOFTWARE DEVELOPMENT PRODUCT    available  download  DevExpress exclusively
+
+ EXPORT RESTRICTIONS
+ 
+DEVEXPRESS expressly complies   export restrictions imposed   government   United States  America   Developer       export  export  SOFTWARE DEVELOPMENT PRODUCT within  created application   country person entity    subject   export restrictions Restricted countries currently include    necessarily limited          warrant  represent  neither   Bureau  Export Administration    federal agency  suspended revoked  denied  export privileges
+ 
+ DISCLAIMER  WARRANTY
+ 
+DEVEXPRESS expressly disclaims  warranty   SOFTWARE DEVELOPMENT PRODUCT  SOFTWARE DEVELOPMENT PRODUCT   RELATED DOCUMENTATION  PROVIDED " " WITHOUT WARRANTY    EITHER EXPRESS  IMPLIED INCLUDING WITHOUT LIMITATION  IMPLIED WARRANTIES  MERCHANTABILITY FITNESS   PARTICULAR PURPOSE  NONINFRINGEMENT DEVEXPRESS   WARRANT GUARANTEE    REPRESENTATIONS REGARDING     RESULTS      SOFTWARE DEVELOPMENT PRODUCT    CORRECTNESS ACCURACY RELIABILITY  OTHERWISE  ENTIRE  ARISING     PERFORMANCE   SOFTWARE DEVELOPMENT PRODUCT REMAINS      written information  advice   DEVEXPRESS   employees  create  warranty     increase     warranty
+ 
+ LIMITATIONS  LIABILITY
+ 
+  maximum extent permitted  applicable      DEVEXPRESS  liable   special incidental indirect  consequential damages whatsoever including without limitation damages    business profits business interruption   business information    pecuniary  arising       inability    SOFTWARE DEVELOPMENT PRODUCT   provision   failure  provide Support Services   DEVEXPRESS   advised   possibility   damages
+ 
+Developer   understands   SOFTWARE DEVELOPMENT PRODUCT  produce inaccurate results because   failure   within  SOFTWARE DEVELOPMENT PRODUCT  failure  Developer    properly    deploy  SOFTWARE DEVELOPMENT PRODUCT Developer   assumes    responsibility      SOFTWARE DEVELOPMENT PRODUCT    entire   failures  faults within  SOFTWARE DEVELOPMENT PRODUCT    regardless     failure           REMEDY  DEVEXPRESS'  OBLIGATION   GOVERNED   AGREEMENT      DEVEXPRESS' LIABILITY EXCEED     DEVEXPRESS   SOFTWARE DEVELOPMENT PRODUCT  Limited Warranty    failure   SOFTWARE DEVELOPMENT PRODUCT  resulted  accident  alteration unauthorized   misapplication   SOFTWARE DEVELOPMENT PRODUCT
+ 
+ INDEMNIFICATION
+ 
+ hereby   indemnify DEVEXPRESS   officers directors employees agents  representatives     demand   liability  damage    including actual attorney'  whether    contract          reason   arising             respect   breach  violation   Agreement     claims    Applications   SOFTWARE DEVELOPMENT PRODUCT included herein
+ 
+ SUPPORT SERVICES
+ 
+DEVEXPRESS  provide   support services related   SOFTWARE DEVELOPMENT PRODUCT "Support Services"   Support Services  governed  DEVEXPRESS policies  programs described    manual  " " documentation   DEVEXPRESS provided materials  supplemental SOFTWARE DEVELOPMENT PRODUCT provided       Support Services   considered    SOFTWARE DEVELOPMENT PRODUCT  subject     conditions     respect  technical information  provide  DEVEXPRESS     Support Services DEVEXPRESS    information   business purposes including  SOFTWARE DEVELOPMENT PRODUCT support  development 
+ 
+ TERMINATION
+ 
+Without prejudice    rights  remedies DEVEXPRESS  terminate     failure  comply      conditions      events Developer    destroy  copies   SOFTWARE DEVELOPMENT PRODUCT     component  including  related documentation   remove      DEVEXPRESS intellectual property   applications distributed  Developer   whether  native altered  compiled states
+ 
+ 
+ 
+DEVEXPRESS delivers  software electronically    collect      residents   states    operates  should confirm      federal government   impose       electronically delivered software   entirely liable       
+ 
+ MISCELLANEOUS
+ 
+DEVEXPRESS CodedUI Extensions  licensed     DEVEXPRESS Universal Subscription      license  granted  DEVEXPRESS CodedUI Extensions unless Developer   obtains  Subscription  DEVEXPRESS Universal  outlined  Section    
+
+     license  granted    providers available   SOFTWARE DEVELOPMENT PRODUCT Developer    obtain  follow  appropriate licensing           provider 
+
+  OpenStreetMap      understand  OpenStreetMap      OpenStreetMap   openstreetmapLegal_FAQ
+
+  OpenStreetMap      understand  OpenStreetMaps   Policy   OpenStreetMap  Policy openstreetmapTile_usage_policy
+
+        understand Microsoft'        Licensing  Pricing Information microsoftproductlicensing
+
+    construed interpreted  governed        Nevada      specific  rights    others         country  country
+ 
+     modified  writing signed     authorized officer  DEVELOPER EXPRESS    provision        unenforceable  remainder  remain   enforceable according      remedy provided  determined   failed   essential purpose  limitations  liability  exclusions  damages     Limited Warranty  remain  effect
+ 
+DEVEXPRESS reserves  rights  specifically granted   
+ 
+ ACKNOWLEDGE      UNDERSTAND  AGREEMENT            AGREEMENT  INSTALLATION     SOFTWARE DEVELOPMENT PRODUCT INCLUDED   DISTRIBUTION
+ 
+Copyright   Developer Express 
+ trademarks  registered trademarks  property   respective owners
+
+Should    questions concerning   contact  directly   United States  +      Developer Express   department        Glendale  

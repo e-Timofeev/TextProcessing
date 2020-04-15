@@ -1,0 +1,1524 @@
+## Versions ##
+" "       
+UNRELEASED
+
+Version   
+ Updated translations
+   update       features   updated     months
+
+Version   
+ Updated translations
+     feature   AdBlock  
+ Updated  'should  ' survey             should  enrolled  MyAdBlock
+      comment jspeedmeyers
+       Filter     AdBlock Options 
+
+Version   
+ Updated translations
+ Improved  accessibility   AdBlock    option 
+
+Version   
+ Updated translations
+         handling process
+ Removed  unnecessary    versions  Chrome   Chrome version 
+     saving  "disabled" filters   Customize 
+ Improved   handling process   MyAdBlock  feature
+     saving ' themes
+  element hiding exception       collection processing
+ Formatted      initially missed
+
+Version   
+ Updated translations
+ Updated  MyAdBlock dashboard    related   
+
+Version   
+      initial ''  occurring   minutes
+
+Version   
+ Updated Translations
+ Linted  formatted  JavaScript    
+
+Version   
+   MyAdBlock   action   AdBlock  
+ Improved  keyboard accessibility   AdBlock  
+      AdBlock   taking    incorrect MyAdBlock options 
+   request  feedback   AdBlock Options   MyAdBlock 
+ Update Translations
+
+Version   
+ Updated    
+
+Version   
+ Updated Translations
+   Acceptable  Privacy filter 
+   security    'bandaid' processing  getadblock
+      Customize    AdBlock Options 
+ Further improvements   'MyAdBlock'  replacement functionality
+
+Version   
+    issues   'MyAdBlock'  replacement functionality
+      AdBlock Option   showing  translation credits widget
+      feature  MyAdBlock 
+ Updated translations
+
+Version   
+ Improved  'MyAdBlock'  replacement functionality
+ Refactored     `getSettings` function
+    option     Twitch
+ Improved  refactored  blacklist  hiding wizard   correctly     removed jQuery 
+ Updated translations
+
+Version   
+ Improved  modified  AdBlock options 
+   themes   AdBlock 
+
+Version   
+ Updated translations
+ Removed  functionality    update 
+ Updated  Norwegian filter  
+ Improved Refactored  whitelist wizard   correctly    
+
+Version   
+ Updated translations
+      AdBlock    Chrome developer 
+   detection    telemetry 
+ Updated   including  inclusion   material design 
+ Changed   functionality   AdBlock Options      layout
+   JavaScript     enabled filter   collection processing
+
+Version   
+ Removed unused    
+ Updated   processing  include parameters        enabled
+ Removed duplicate  server messages
+ Updated  'MyAdBlock' message    
+ Update translations
+
+Version   
+   update       features   updated     months
+
+Version   
+ Updated    
+ Updated translations
+
+Version   
+       option       selection      AdBlock Option 
+ Updated   processing  include  indicator     YouTube whitelisting enabled  disabled
+   AdBlock version number   messages
+
+Version   
+ Updated    
+
+Version   
+ Updated    layout   AdBlock Options 
+   channel    reduce   number   
+ Cleaned   removed  unused Safari 
+        extension  changed  AdBlock    Options      
+
+Version   
+   handling    
+
+Version   
+ Change  default values  MyAdBlock       initially selected
+
+Version   
+ Updated    layout   
+   MyAdBlock options       Options 
+
+Version   
+ Updated translations
+      message    AdBlock Protect extension   
+
+Version   
+      extension description
+
+Version   
+ Updated    
+     starting AdBlock  AdBlock   paused   browser  closed
+
+Version   
+ Updated translations
+ Updated YouTube Channel whitelisting feature    content script  longer  direct requests      described 
+  googlechromiumchromiumsecurityextensioncontentscriptfetches
+
+Version   
+ Updated translations
+ Updated 'bandaids' processing      certain  
+
+Version   
+ Updated translations
+ Updated & improved     AdBlock  
+ Changed  AdBlock    "Report     "  "Troubleshoot  "         article
+ Updated  AdBlock  report       FreshDesk 
+ Updated  AdBlock logging   
+  missed   statistics        something  
+   vertical position   social   header   AdBlock options 
+   Norwegian language filter 
+ Updated      Swedish  Korean filter 
+ Changed     Finnish Danish Romanian  Icelandic language filter     
+
+
+Version   
+ Updated translations
+   keyboard shortcut  toggling   feature #
+    unpause   AdBlock context  #
+   update       features   updated     months #
+
+Version   
+ Updated translations
+ Updated     #
+
+Version   
+ Updated translations
+ Updated    release     #
+
+Version   
+ Updated translations
+ Updated     #
+
+Version   
+ Updated translations
+ Updated    + #
+
+
+ Updated translations
+   changes     layout   AdBlock    #
+ Removed  update  #
+
+
+
+ Updated    passing messages between AdBlock  getadblock  #
+
+
+ Removed  externally_connectable entries   manifest  reduce  number required permissions  AdBlock #
+
+
+ Updated translations
+   'MyAdBlock'  replacement feature #
+
+
+ Updated translations
+  '  Feedback'  remove  '' '    AdBlock     #
+ Updated  update          upgrading  AdBlock versions    #
+
+
+ Updated translations
+        feature  #
+
+
+ Updated translations
+   update       features   updated     months #
+
+
+ Updated translations
+     missing separators   AdBlock   #
+
+
+ Updated translations
+    '   '     AdBlock    #
+ Updated  Cryptocurrency Bitcoin Mining Protection   #
+ Removed obsolete AdBlock    #
+
+
+ Updated translations
+     feature  #
+ Improved  performance   common  parsing function #
+
+
+ Updated translations
+ Updated   survey     ''   computer   opening   #
+ Updated     include  indicator             filter   collection #
+
+
+ Updated translations
+ Updated 'bandaids' processing      certain   #
+ Updated     #
+
+
+   logging   opening  AdBlock options  #
+
+
+ Updated translations
+ Updated  logging   selections   AdBlock   #
+ Updated        elements   italicized      wizards    issues #
+
+
+ Removed   option    survey #
+ Updated     optional filter   collection  include hiding filters  #
+ Updated translations
+
+
+ Updated 'bandaids' processing      certain   #
+ Updated translations
+
+
+      'Enable AdBlock   ' AdBlock   #
+
+
+ Updated translations
+ Updated     #
+    option    survey #
+
+
+ Updated translations
+ Removed update  #
+       feature #
+    filter   blocks Cryptocurrency mining scripts #
+ Updated 'bandaids' processing      certain   #
+
+
+ Updated translations
+   update   English        update #
+      unsubscribe warning cookie   Filter     AdBlock options  #
+
+
+      '' feature #
+ Updated translations
+ Updated  success message     Report  #
+ Removed Safari specific messages    longer  #
+        language filter  subscriptions      combined EasyList  #
+       "  blocks   domain"  refreshing    #
+ Updated 'bandaids' processing      certain   #
+      YouTube  channel feature #
+ Removed unnecessary    Customize  #
+ Removed  language specific filter     & EasyList      +   + EasyList instead #
+   locale   installed  string        correct language #
+   warning message   Filter     Options     subscribes  EasyList     filter  #
+   warning message   Filter     Options     subscribes  several filter  #
+ Changed      AdBlock       possible  #
+   update   English  #
+
+
+ Updated Translations
+ Updated 'bandaids' processing      certain   #
+ Updated     #
+      documentation   counts #
+ Removed  obsolete  module #
+ Removed obsolete  related  version  #
+      updated localized messages   'Report  '  #
+
+
+
+ Updated Translations
+ Updated 'bandaids' processing      certain   #
+   injection   AdBlock unique   JavaScript memory   getadblock  #
+
+
+ Updated Translations
+ Removed     locale  #
+
+
+ Modified   collection process   collect   AdBlock  paused
+ Modified   collection process   collect    
+ Modified   collection  include  indicator     custom filters
+ Updated     collection process  version 
+
+
+    ' collection' option    Options  #
+
+
+ Changed  method  sending  filter      #
+
+
+      'Report  '   AdBlock attempts  automatically reload  
+ Updated     collection process  version  ##
+
+
+ Updated     #
+
+
+      surveys  #
+
+
+    enable  surveys  #
+ Updated Translations
+
+
+ Updated 'bandaids' processing      certain   #
+
+
+ Updated translations
+ Updated     #
+
+
+ Updated translations
+ Updated 'bandaids' processing      certain   #
+
+
+ Updated translations
+ Updated 'bandaids' processing      certain   #
+    information     #
+
+
+ Updated translations
+ Updated 'bandaids' processing      certain   #
+
+
+ Updated translations
+   display   AdBlock  #
+
+
+ Updated translations
+ Updated 'bandaids' processing      certain   #
+
+
+ Updated  donate      AdBlock   #
+
+
+      browser     surveys  #
+
+
+ Updated translations
+     passing  custom filters   support    'Report  '    'Report  '  # 
+   notifications    survey  # 
+
+
+ Updated translations
+
+
+ Changed  'Spread  '    AdBlock   'Donate   support AdBlock'   message logging   AdBlock    opened #
+ Updated Translations
+
+
+      YouTube channel  feature  AdBlock  correctly handles YouTube channel   special characters   '#"  #
+        wizard     wizard     message    creates invalid filter    #
+ Updated  '' processing    retrieve        unique identifier   different persisted storage   #
+
+
+       section   AdBlock Options   hidden behind  footer #
+ Improved  security   'bandaids' processing   getadblockinstalled   improving      adding       isTrusted  #
+ Updated  '' processing          unique identifier   different persisted storage   #
+
+
+ Removed   logging    process #
+
+
+ Removed  logging    process #
+
+
+   unique messages   locale message     variations  AdBlock Chrome Safari    locale    shared       various versions  AdBlock  #
+    description   "  Request" AdBlock   #
+    create    'blockage_stats' object during installation  #
+ Removed  'descriptions'   locale message  #
+  extension   recognize  process multiple     getadblockinstalled      disable Acceptable   #
+       process   diagnosis issues    processing #
+   version  license   included   extension #
+   option   General   AdBlock options  enable  disable  AdBlock devtools  #
+
+
+    AdBlock  display  #
+
+
+ Updated    #
+
+
+      Privacy Policy   Options  #
+
+
+ Updated    
+
+
+      'Options'  'Filter '      checkboxes   inadvertently checked    clicked  'Update ' button   similar actions  #
+   remaining localStorage        resolve   migration issues  #
+       processing incorrectly sending       parameter  #
+
+
+      'Options'    certain circumstances  "  intrusive advertising" option   General       #
+         object    Reporting   #
+
+
+     'Options'      opened    background   initialized #
+      AdBlock context  option  enabled  disabled   Options   #
+     'Report  '   English  reporting    English   #
+ Updated  descriptions  certain language specific filter   include 'EasyList'  #
+
+
+       migration   #
+
+
+   ' report'    Support   English   #
+
+
+  missing message entries  removed obsolete entries #
+
+
+ Migrated AdBlock   Adblock  ' source 
+
+
+ Updated Translations
+  incorrect      Support    Options  #
+ Changed  Malware filter    download       Malware blocked      #
+ Refactored  YouTube Channel whitelist feature #
+
+
+ Updated Translations
+ Removed      longer needed  migration    AdBlock   support  #
+   AdBlock     "  requests"  #
+       '' property   AdBlock  #
+ Refactored     AdBlock Options     Safari    message  Acceptable   Content blocking  mutual exclusive #
+
+
+ Updated Translations
+ Updated  placeholder    "      domain" example  #
+ Removed duplicate    General    AdBlock Options  #
+ Migrated     AdBlock   #
+ Updated  "Report  "  " Report"      AdBlock   #
+
+
+ Updated Translations
+ Removed duplicate strings   translation message  #
+   timestamp  string   Malware   prevent caching   browser #
+  Safari  content blocking    enabled  default #
+ Updated  Polish filter   #
+ Updated  Acceptable  subscribe message  Options  General  #
+ Updated  AdBlock   #
+
+
+       description   AdBlock Warning Removal   should   lowercased '' #
+     parameter      indicate   advance setting  enabled #
+       blocking assistant    #
+   Chrome  modified  "installed"     Chrome specific chromeruntimeonInstalled  #
+   Safari  AdBlock     WebKit content blocking feature   installations #
+   Safari       "  blocks   domain" feature #
+
+
+    advanced feature     Requests    #
+
+
+  Updated    filter  hosted  AdBlock' servers  #
+  Updated translations
+
+
+  Removed Michael' message #
+      'Report  '     Acceptable   enabled  #
+   language specific filter   Arabic Estonian Icelandic  Lithuanian  #
+
+
+   Modified       redirect  images  rather cancel  request  #
+
+
+  Modified       redirect certain images  rather cancel  request  #
+       message   clicks  disable acceptable     'installed' #
+
+
+   required property  Safari     #
+
+
+  Updated   attributes   Acceptable  message  better      #
+  Updated       ''   Acceptable   undefined #
+
+
+   missing    Safari
+
+
+   Acceptable  filter  #
+
+
+  Remove  timestamp  string   Malware filter  
+
+
+  Updated Translations
+  Updated Malware filter  
+   Safari   'Author'   changed  Michael Gundlach  BetaFish 
+
+
+  Removed   parameter  AdBlock   requests #
+
+
+  Updated  AdBlock custom filter   #
+  Update translations remove unused entries #
+
+
+    runtime performance improvement   subscribed   Malware filter  #
+  Removed  temporary cleanup  related   filter  #
+         AdBlock custom filter  update timestamp   install    determine    installing     minutes   
+          #
+  Removed  '  Resource'  #
+   formatting     information  Tender support tickets #
+  Removed   specific 'bandaid'  'thepiratebay'  #
+
+
+ Updated  Safari description  website information
+
+
+ Reverted  change  replaced ' Spread  '    AdBlock    Amazon affiliate  #
+
+
+    debugging AdBlock  length    string    getadblock server   increased #
+
+
+    enabled option  anonymously  filter   metrics     improvement  functionality  performance  AdBlock  #
+   installation    subscribed   malware filter  #
+      locale  ''  ' Spread  '    AdBlock    replace   Amazon affiliate  #
+ Updated  malware notification  #
+ Removed   messages #
+     Unicode domains  filter    correctly processed #
+ Changed     'visibility '  'visibility hidden' #
+      AdBlock    wizards  appearing  certain  #
+
+
+ Removed  logging messages  Safari  #
+
+
+   logging messages  Safari  #
+
+
+      verify  domain   undefined  processing  #
+ Changed    evaluation   Survey processing #
+ Update  JavaScript  processing  include    information     include    #
+ Updated   filters  showing   Google Search   ' Google ' option  enabled #
+ Removed Disconnect search   AdBlock #
+ Update  height   Subscribe  #
+
+
+
+ Removed  logging messages  Safari  #
+ Updated translations
+
+
+   logging messages  Safari  #
+
+
+  Safari  AdBlock    popups  Safari #
+  Safari   deleting  cached resource      window  closed   simplified  improved  #
+  Chrome  AdBlock    browser startup   installation   ''  #
+  Chrome  AdBlock      'getadblockinstalled'       initially  #
+ Modified  translation   DropBox  message   easier   translation   #
+
+
+   'Report  '   support      filter  Korean Sweden Turkish  updated #
+  Chrome removed  normalizing      requests       needed  #
+  Safari improved  removal     YouTube  #
+   Custom   AdBlock options   display   messages   invalid filter   during    custom filters #
+   ability  whitelist frames # & #
+ Improved  YouTube channel whitelist feature    YouTube    reloaded  required  #
+  Chrome  'number   blocked' counter  incremented     blocked #
+  Chrome   'Report  '   option    enable  disable  extensions     source        information   'Report  '    Support   include  extension information  allowed       better resolve issues #
+
+
+
+ Removed      "installed"    getadblock #
+
+
+         trying    "installed"   getadblock #
+         "question"   getadblock #
+   filter    JavaScript exception message   invalid option     filter #
+     creating  YouTube whitelist channel filter   listing  channels #
+      whitelist  blacklist wizards   displayed correctly  certain  #
+  support  Internationalized domains  throughout AdBlock #
+ Updated Translations
+
+
+  language Gujarati
+
+
+  change    "AdBlock"
+ Updated Translations
+
+
+  change  "BetaFish Adblocker" temporary
+
+
+  Chrome  installation      #
+
+
+  Chrome      'installed'      #
+  Chrome   message  include installation   AdBlock  installed  #
+
+
+   extension     included   JavaScript  message  #
+  Chrome  improved       checking   'installed'   opened correctly #
+  Chrome    approximate installation duration   uninstall  #
+
+
+      DropBox  processing duplicating filters during browser  #
+   message   options    DropBox  processing failed     number  custom filters #
+ Updated Translations
+
+
+  JavaScript  exception processing #
+ Modified   install       message      #
+ Modified  survey acknowledgement processing    'message' property  chromeruntimelastError   exists #
+
+
+  browser   version information    #
+  validation    detect  invalid installation  #
+  acknowledgement processing  overlay surveys #
+  'stringify'   AdBlock settings     #
+      'display'       AdBlock    #
+
+
+ Enhanced survey processing #
+
+
+  Safari     confirmation prompt  subscribing    filter     syntax #
+
+
+ Removed  Norwegian filter      longer active #
+   subscribe filter     update timestamp    #
+   malware notification setting    #
+  additional   whitelistblacklist dialogs   display issues   websites #
+ Removed  unnecessary   sendResponse #
+  Chrome     confirmation prompt  subscribing    filter     syntax #
+      request    contain  '' #
+ Updated  Chrome   description#
+
+
+ Updated Translations
+  Chrome   uninstall  #
+
+
+ Updated Translations
+  Safari     dispatch     extension blocked content #
+    memory  #
+   extension installation      #
+   JavaScript   Chrome  updating   #
+ Updated  workaround   Chrome' reporting   ""  #
+
+
+ Updated Translations
+ Remove unnecessary    processing
+
+
+     syncing custom filters  DropBox #
+      number  blocked   single   #
+        Malware filter    AdBlock Options   Filter   #
+    Malware Notification option    subscribed   Malware filter  #
+
+
+    option  Safari   "ClickToFlash compatibility " #
+ Updated  IsraelHebrew filter     'Report  ' #
+ Updated     AdBlock    Chrome   #
+     hiding    AdBlock '  Resources '   Safari  #
+
+
+   saving   malware filter     filter     extension       request   browser starts #
+
+
+  control    getting   malware filter  #
+
+
+      Safari extension   windows  closed #
+
+
+ AdBlock    YouTube   retrieve  channel      Whitelist  YouTube Channel feature enabled #
+  'Filter syntax tutorial'    AdBlock options  Customize   checks   generated    #
+     chromeruntimeonMessage    ' available  Chrome    versions #
+   option   General options    display    counter   AdBlock  
+   option  display  #        AdBlock     General    #
+           AdBlock  example  options    Chrome  running  incognito  #
+   'Report  '     questions   bolded #
+ Reformatted        change  #
+ Modified several JavaScript throws statements      object #
+
+
+ Improved performance  extension    Malware filter  #
+   '  resource '    Safari version   extension #
+   timestamp   JavaScript        storage #
+    determine  correct    Filter  syntax    Custom     ' language #
+ Updated  Japanese filter   #
+
+ Removed unnecessary backup directory   included      
+
+ Removed invalid character   French message 
+
+
+ Removed  Spanish filter    options     longer  supported #
+ Updated translation 
+ Updated  version numbers       Chrome  workaround   #
+
+
+ Modified  YouTube specific     approach #
+ Corrected  logging  JavaScript errors   Chrome  version #
+
+
+   ability  exclude  disable filter  entries #
+      missing  handler     #
+ Removed confusing message    #
+   JavaScript    background   Safari  several   closed    rendered #
+    message   displayed   whitelist  blacklist wizard '      framesets #
+   'reload ' option     wizard #
+
+       button  Safari & YouTube #
+
+
+      Chrome  version   'report  '      #
+  Chrome improved  cleanup       closed #
+      whitelist wizard   displayed  certain  #
+      AdBlock   Safari  #
+   AdBlock options  Filter       custom filters     subscribed         filter  #
+
+   'Report  ' feature  extension   perform     malware
+      domains     resources   resources    malware    
+        notified      information  provided    malware resources
+          continues    before #
+
+
+    around   Chrome   incorrectly   element  #   
+   column number   information    JavaScript exception  caught
+
+  JavaScript   YouTube  Safari
+
+
+ Improved  Safari AdBlock  #
+  JavaScript    showing  YouTube #
+ Removed     failures #
+ Modified   buttons   #
+    determine  AdBlock version    support tickets #
+ Removed survey   option #
+
+ Updated Translations
+
+
+     DropBox  process #
+   memory    Chrome  rendered  information   removed      changed #
+ Modified  ' Spread  '           instead   loaded    #
+     Safari  whitelisting   blacklisting  #
+ Improved  string processing   information   report       AdBlock support  #
+
+
+   JavaScript   DropBox  
+    option ' survey'   options   synced  Dropbox
+
+       whitelist  blacklist wizards
+
+
+   feature     synchronize  settings  DropBox
+   option        AdBlock  surveys
+      JavaScript    contain  information
+ Updated  version  jQuery  jQuery    
+     AdBlock  paused   blocked  windows
+
+ Reverted translation because   length exceeded   character 
+
+ Removed externally_connectable permission  manifest    additional permissions needed   version
+
+    Chrome    opening     updates
+
+
+  'AdBlock Warning Removal' Filter    option   Filter  option  #
+ Removed        should    'golden ticket' #
+
+
+     Safari    translation process #
+       process  enhanced survey processing #
+
+
+ Updated translations   translation credit  #
+ Default  reports  private   support       issues #
+     option   support       report  #
+ Corrected    Safari  YouTube  @
+ Removed ''    Whitelist YouTube channels option #
+
+ Corrected      Safari  YouTube 
+
+
+ Updated   correctly        player  Safari  youtube #
+ Improved  detection  getadblock website  ensure  injected extension information  occurs   correct website #
+ Include   number   blocked   weekly  statistics #
+
+
+  setting information   reports #
+ Updated Finnish filter   #
+ Updated hiding   configuration #
+
+
+  support information   reports # # #
+ Filter unnecessary whitelist  #
+
+
+ Updated Translations
+   display issues  Chrome  certain ' #
+
+
+  JavaScript   search #
+ Performance improvement #
+  changelog  placeholder  #
+
+
+  Options    changelog   support  #
+ Corrected   Chrome  counter   incremented  hidden content #
+  JavaScript   search #
+
+
+  Extension version number   Reports
+   support   specific characters
+ Improved Blacklist support  custom filters
+  JavaScript   Chrome  
+
+ Issues # # # # # # #
+
+ Updated Translations
+
+  design  Options    
+
+  
+
+     updates
+
+    YouTube Channel Whitelisting
+
+ Removed unnecessary 
+
+   remove Safari experimental feature updated French filter 
+
+  bugfixes Safari    updated Chinese filter 
+
+    survey
+
+  
+
+ Version 
+
+ Migrate  chromeadblock  getadblock
+
+
+  Fanboy' annoyances    Filter  
+  Safari  showing     websites
+
+ Settings measurement
+
+  bugfix    updated Israeli filter 
+
+    survey
+
+
+  language Catalan
+ Ability  survey  numbers    possible developments  AdBlock
+
+
+ Bugfix   initial filter subscription
+
+  channel 
+   updated filter    ' localization  Malware  Antisocial filter 
+   function  Arabic  Hebrew 
+  language Norwegian
+ Bugfix blocked          
+
+ Removed crowdfunding message  AdBlock button
+
+ Update method   otherwise breaks  Chrome Canary
+
+     CrowdTilt notification 
+
+
+    reporting      support 
+ Notification   CrowdTilt campaign
+ Blocked    darker    looking   notification
+
+      bugfixes   because  itself    breaking AdBlock   reloaded    quickly
+
+  bugfixes
+
+ ' forget '   setting  AdBlock  paused   change   counts   tomasko
+
+   explaining   counts section  
+
+ Simplify Filter  options    blocking   toolbar button   
+
+ Blacklist wizard   hidden   content wormboy updated Russian filter  tomasko
+
+  report wizard   disable  extensions Marcus Jackson 'Report  ' available  advanced  tomasko Follow button     tomasko  bugfixes
+
+ Pressing  clicks default button  blacklist  whitelist wizards     install 
+
+  sharing   Chrome toolbar button  tomasko   deprecated         install
+
+ Filter   improvements
+
+   working EasyList  German 
+
+ Replace outdated    Czechoslovak  tomasko
+
+   change  change French   famlam survey  Safari  
+
+ Blacklister  bugfix  corner Safari background  bugfix famlam  Russian+Ukrainian 
+
+  Resource  bugfix famlam   bugfixes
+
+  Retina support  Chrome     bugfix famlam  Safari     experimental faster method  hiding 
+
+ Disable caching  blockcounts
+
+  pointing  Amazon   Support  counts 
+
+   Amazon    moment
+
+ onMessageExternal  supported
+
+    statistics
+
+    blocking    bugfix
+
+  bugfixes   changes
+
+ Update Finnish  French filter            Chrome
+
+ Correct toolbar button   Safari crazyskeggy  Resource   source filter  filter validation bugfixes  memory   improvements famlam   broken buttons  Hotmail
+
+   delaying payment decision   
+
+  filter validation  compress install package  famlam
+
+  conflict   extensions remove  Polish   changes famlam
+
+  changes bugfixes    hotmail famlam   blacklist wizard  available  button  context 
+
+  ' Google  '  Google Instant
+
+  support  selector exception syntax  refactoring famlam
+
+  bugfixes famlam   Retina display   Safari 
+
+  context   Safari     numbers  server several     famlam
+
+   search    Resource  famlam blacklist wizard improvement
+
+ Update  manifest version  famlam     
+
+  warning   report    deprecated Chrome  famlam  Minimum Chrome version required   
+
+ Improvements   Options  famlam  Resource  famlam   Reporter  famlam  Blacklister wormboy famlam   Whitelister  Decrease  chance  showing    startup   AdBlock  updated famlam
+
+ Delete Chrome  blocking 
+
+    occasional ' blocked   ' iframes  Chrome
+
+ various parsing   famlam
+
+  blocking  Chrome famlam
+
+  domain parsing change famlam   beforeload  Chrome +    'blocked    extension' iframes
+
+ Button    showing  Chrome        settings jaysoffian
+
+   websites broken  injecting   
+
+ '  RockMelt   impending upgrade   around Japanese filters  famlam
+
+  explain CatBlock    missed               
+
+ '  websites  AdBlock   Chrome    impending breakage famlam '  Safari    upgrade   ' 
+
+ Delete unmaintained translations         Please   HowToTranslate wikipage
+
+  honoring  Control headers  custom  better famlam
+
+  bugfixes     filters famlam
+
+ Address   broken websites famlam
+
+ Handle  change  caused   
+
+  changes
+
+  bugfixes
+
+ Revert  blocking   disables AdBlock  Chrome        Chrome   
+
+  Content Security Policy   blocking famlam  hunting
+
+   
+
+  Safari toolbar button     blacklist wizard  
+
+ Refactoring   around    Chrome   breaks AdBlock famlam
+
+ 
+
+     Safari toolbar button  pressed Alexey Ermakov
+
+    webRequest    Chrome  
+
+  disable  blocking  adding  disables AdBlock   broken youtube  blocking  Safari
+
+  blocking famlam  improvement famlam remove  Ukrainian  
+
+ Remove instrumentation
+
+   hunting
+
+ Instrumentation     chromium
+
+ Include    
+
+ Measure     blocking     '  tested enough  enable  everyone
+
+ Quieter logging
+
+       blocked  Chrome       AdBlock Options
+
+ '   toolbar button
+
+    Safari settings instead  localStorage  Safari       Private Browsing
+
+  critical  breaking Safari  Private Browsing remove  Norwegian  famlam  jQuery version famlam
+
+  changes famlam    waiting  
+
+     Safari    before fetching filters famlam  filter normalization  famlam
+
+   filters drewish disable    Famlam   modified   headers  filter  Famlam
+
+ Clicking 'Update '  Safari Filter    correctly  elapsed 
+
+ {{{[]}}} change     workaround    
+
+ Revert {{{[]}}}  change   breaks   Chrome
+
+ Several  changes  {{{[]}}}   supported      spiked     famlam
+
+  bugfixes rework filter  manager famlam     project homepage  Options  
+
+  bugfix  support resourceblock  Safari famlam
+
+  background  blocking  Safari famlam  + button   Chrome browser action    bugfix   blacklist wizard
+
+  Safari bugfixes
+
+  speedup graduate "    "  option        ' refresh    blacklisting      famlam
+
+    improvement  unsubscribing oversubscribed  famlam
+
+ Retire   version famlam
+
+    oversubscribe  filter   unsubscribe     oversubscribed
+
+  vietnamese filters    helper wizard  Customize    AdBlock      famlam
+
+    bugfixes  Famlam Issues         Ukrainian translation
+
+  bugfixes Famlam
+
+   changes  bugfixes famlam
+
+  collision   random 
+
+    install 
+
+  bugfixes     couple websites
+
+ Bugfixes  wormboy Drewish  famlam    whitelisting wizard  powerful famlam
+
+  
+
+    installation  Switch   instead  donations
+
+ 
+
+  advanced features behind advanced checkbox famlam
+
+ Finish     install 
+
+ Prettier install  hopefully clearer  technical   
+
+ Bugfix  resourceblock thanks      report  Remove reference   
+
+ Translators  credit  AdBlock Options Drewish      cleanup famlam     whitelisting    ' needed  reduce memory  
+
+ Restructuring       filtering engine resulting     laptop  savings         resource         resources   
+
+   related  clicking malformed filter  subscription   Thanks   Nurminen   report          leaking variable famlam
+
+  blacklister   Chinese  famlam
+
+ AdBlock Options  Safari  accessible through Extensions|Preferences  Subscribe legacy   languagespecific filter   '      
+
+ '  bandaids    famlam
+
+  incognito  behavior  manual filters   famlam Blacklist wizard bugfix wormboy
+
+      remove     websites  breaking famlam
+
+ Change  shipping
+
+ Remove   message 
+
+  blacklisting wizard manual editing  famlam
+
+  change
+
+   install   Safari
+
+  Safari  breaking AdBlock  restart  Thanks  conundrum  Freenode        tracker    helped diagnose  problem
+
+   description  manifest
+
+  install   Safari   create  version  AdBlock
+
+  broken signup  subscriptions
+
+ Internal  shuffling
+
+    Google search    Google Instant
+
+    improvements  '   blacklist  whitelist wizards       famlam wormboy
+
+ General cleanup  refactoring  helper functions
+
+  toolbar button specific      multiple windows   Famlam
+
+  "     "  toolbar immediately   clicking  Naesten
+
+ Filter updates
+
+ '  context   Chrome Extension Gallery
+
+  resourceblock improvements   bugfixes famlam wormboy
+
+ Highlight  element '      blacklist wizard wormboy
+
+ jQuery  jQuery  refresh
+
+  advanced blocking wizard linked   existing hiding wizard famlam
+
+       specific  Button message correct
+
+    whitelisting     updating  toolbar  immediately famlam
+
+   button message  install  
+
+  positioning  blacklist wizard wormboy    button message   
+
+    workaround  hiding button  Chrome  failed    Button   famlam
+
+   toolbar button  retiring  Browser Button  AdBlock extension
+
+ Bugfix  installation   showing checked '  toolbar button' checkbox
+
+ Bugfix   report     thorough validation  custom blacklist entries famlam
+
+ Support   Google    subscribed  EasyList famlam
+
+ Localization updates correct   scheme   remove  
+
+ Support $document filter syntax allowing individual    whitelisted    $elemhide support Famlam
+
+ Ignore filters   contain unknown options famlam
+
+ Support requiresLocation  subscribe  famlam
+
+ Handle  EasyPrivacy filter   breaking  websites
+
+   filter  should     removed   options 
+
+  Chrome reduce overall browser      %  decrease AdBlock     % 
+
+ Validate filters  download instead   inputting  filter engine because    filter engine            famlam    parsing  `@@||$domain=domain` filters
+
+   improved Youtube  blocking famlam
+
+  
+
+ Change donation request  mention        
+
+ Bugfix    blocking 
+
+  youtube channel videos  autoplaying incorrectly drewish  Support    = blocking famlam
+
+ 
+
+ Updated  description    launch
+
+  broken Spanish translation  jQuery   improvements   bugfixes  improvements
+
+ Subscribe Englishspeakers   appropriate Easylist sublist Famlam
+
+   chromeinsertCSS    figure       earlier     specific  different iframes   
+
+  tagging 
+
+  Chrome    hiding  should improve     Chrome
+
+  around Chrome  related  chrome   images  'background'   deprecated  filter   Special   hotmail        reporter      blockable  except  Youtube     blocking  Chrome  removing  redundant     Famlam
+
+   memory  Chrome famlam
+
+ Vastly simplified mechanism  dealing    Chrome   before  filter engine    famlam        languages   AdBlockTranslations      credits
+
+ Memory   improvements famlam
+
+          
+
+ 
+
+   browser button    separate extension  Chrome supports  hiding browser buttons
+
+   Chrome    disappear properly  requested  paused  whitelisted
+
+  
+
+   browser button  AdBlock integrating  Browser Button  AdBlock extension    support  pausing Chrome AdBlock   browser button
+
+  Indonesian translation  improve memory   Safari
+
+  background images     specified  stylesheets famlam  Touchups     manual blacklist editing      release
+
+ Warning   Chrome     AdBlock   disabled   necessary    upgrade  instructions  enabling 
+
+ Localized    famlam
+
+ Memory savings  Chrome  probably   Safari famlam
+
+ Revert   Easylist  Easylist German   Wladimir Palant' author  Adblock  request
+
+ Safari     context    choose    Options 
+
+     optional       Chrome   higher     permission  messages  Chrome  
+
+ Optimize Chrome    '  '  option  disabled
+
+ Replace keyboard shortcuts     
+
+   update German French Italian Korean Macedonian  Polish  Chinese translations
+
+   workaround  Safari crashes
+
+     because Safari  crashing something fierce  Probably           culprit    released    before  ' rolling     version    released  Safari
+
+   remaining  
+
+  around Gallery  causing extension   install
+
+  internationalization support  English   German translations Famlam    providing German translation
+
+ Remove whitespace  hotmail update  filter        reporting   support filter  redirects     Famlam
+
+  broken  reporting   Safari
+
+ Support objectsubrequest  little better      reports  hopefully improve  signal   
+
+ Ignore certain filters  Webkit    properly
+
+   Safari issues causing    through  improve Chrome  Safari memory 
+
+  bugfixes   improvements  Famlam      adblockforchromegooglecode  Source > Changes
+
+ Chrome should  emulate  blocking  subframes because      amount       **  subframes
+
+ Revert messed  grayscale   Safari toolbar
+
+  around Chrome  causing Google Calendar  render incorrectly   
+
+ Bandaid   collapseblockedelements hanging   websites
+
+ Correct      support famlam
+
+ Respect filter subscription expiration  famlam
+
+      thanks tgines      current   reloading  Options 
+
+    "Collapse Blocked Elements"  feature
+
+ Blacklist    effect  proposed  famlam
+
+ Support collapsing   holding elements  subscribe
+EasyList   subscribe   EasyList additional  famlam
+
+   filter  parsing       famlam
+
+       special    around    Chrome      fields disappear     special   
+
+ Remove   facebook layout     affecting safari
+
+ Before   reports     blacklist wizard     helper    '     subscriptions       appear  Firefox    Firefox  Famlam
+
+ Remove    special 
+
+   blacklist   famlam
+
+ Subscribe  filter      subscribe       **   understand  Famlam pulled       Chrome
+
+ Remove  workaround  longer needed
+
+  EasyPrivacy    mostly  resources  downloading  remove Germany     filter  EasyList+additional German filters replaces
+
+ Resource blocking   Chrome Stable     Stable     goodness 
+
+  blocking  resources  Chrome    resources   blocked before    downloaded  Because Chrome    support resource blocking    resources    quickly   resource blocker     '  removed     
+
+ Workaround #  Safari crashes
+
+ Custom blacklist editing  Options  supporting arbitrarilycomplex    blacklist  whitelist    keeping  simple interface  people  ' comfortable  filter syntax famlam
+
+ Workaround   safari crashes  safari   safari
+
+ Prevent  element flashup  Safari
+
+  filter  options drewish better element clicking  blacklist wizard famlam   issues  removing unsubscribed custom filter 
+
+     keeping Safari   seeing Options 
+
+  supported  Safari     safariadblock
+
+  caching  making    better      inserted
+
+        insert      loading
+
+   changes
+*  support  blacklist   Famlam
+* 'Remove' labels  custom filter   Famlam
+*  filter subscriptions available  Drewish
+*      textboxes   Options   submit   Famlam
+*  blacklist  whitelist  robust against    Famlam
+
+  filter  additions  corrections  Drewish   slider   whitelister   button   whitelist options  support   whitelisting  Famlam
+
+  regression  stopped working around  Chrome   blacklister    create ''  '' filters
+
+ Provide   filter subscriptions  options   famlam
+
+ Corrected  couple filter parsing 
+
+ Workaround Chrome  regarding removing SCRIPT elements
+
+  tweaks
+
+ Support  $ filter directive
+
+ Correctly  OBJECTs  multiple <  > 
+
+    options   youtube
+
+ Tabbed Options   drewish
+
+  Google Reader   regressed somewhere   before  release  ''    custom blacklist   famlam
+
+  changelog   Options  improved   blacklister  drewish  famlam
+
+  Italian filters
+
+  custom   chromeadblock
+
+ EasyList+Corset  become  Corset Korean filters
+
+ Detect  handle  selector syntax   ChinaList
+
+ Improved   blacklister
+
+       manually subscribes    filterlist
+
+ Correct   message  internet failure during subscribing   filter
+
+  support   directives  filters         $images  $stylesheets  '    $objects
+
+ Pointing    location  Korean filterlist
+
+ Improved  simplified filtering system   
+
+          youtube  message
+
+ Revert   slowed   websites  Working   correct solution
+
+    parsed  filter   correct solution   written
+
+ Remove         
+
+     blacklister  whitelister dialogs
+
+ Switch    Russian filter 
+
+ complete  description   
+
+ complete  summary   reports   "Frustrated" 
+
+ Alphabetize filter        change
+
+      "Update " button
+
+  slashdot effect    adhere   updates  EasyList maintainers' request
+
+   successful manual filter subscriptions  determine  should     standard 
+
+  latest versions   filters  Chrome startup
+
+ Improved   YouTube  blocking feature   message telling     around problems  disable  feature  ' having trouble
+
+ Handle uppercased blacklist  whitelist manual entries correctly
+
+ Standardize whitelist  blacklist         underlying   through
+
+        Chrome      AdBlock
+
+ Working around  webkit     general   hopefully     changelog    
+
+ Handle ksplice
+
+ Retire "Prevent  flashup"   option     always 
+
+ Disallow indexes higher   blacklist wizard'  wizard opening    websites  hiding  wizard behind     content
+
+ Working around  webkit 
+
+ Working around  webkit 
+
+ Working around  webkit 
+
+  blocking background  
+
+  handling  'Adblock'   importing filters Working around  webkit     merged  Chrome stable 
+
+ Working around  webkit     merged  Chrome stable 
+
+ Tooltip  filter   showing     subscribing 
+
+    Options    script   blacklist    script
+
+  subscribe syntax  converted   proper        filter subscriptions   supported
+
+ Working around  webkit     merged  Chrome stable 
+
+  helpful buttons  contributors
+
+   Donate button   Options 
+
+ Remove  experiments   Contributors section     
+
+ Possibly     AdBlock  working  leaving Chrome  overnight
+
+     whitelister  multiple dialog 
+
+ Working around  webkit     merged  Chrome stable 
+
+  YouTube   blocking   heavily  AdThwart' 
+
+  blacklist entries  easylist syntax
+
+ Created  initial CHANGELOG 
+
+   problem  converting    Russian 
+
+  Danish filter subscription
+
+ Working around  webkit     merged  Chrome stable 
+
+     Russian subscription 
+
+  updates  Options 
+
+     tracker   Options 
+
+ Working around  webkit     merged  Chrome stable 
+
+ Attempt      Russian subscription 
+
+ Initial import
+
+## Changelog    version  AdBlock ##
+
+ Include changes  AdBlock  Chrome 
+
+ Include changes  AdBlock  Chrome 
+
+ Include changes  AdBlock  Chrome    density     Retina  around   regarding   blocking   resources
+
+ Include changes  AdBlock  Chrome  Attempt  combine identical   different options    "'    domain' option       button    correct  Enable reporting    within  extension    advanced  
+
+ Include changes  AdBlock  Chrome     around        '  modified  marked  broken    removing background   remove   content
+
+ Include changes  AdBlock  Chrome    issues   blacklister  whitelister  support   improved blocking method   
+
+ Include changes  AdBlock  Chrome  Improve  blocker   incorrect  button   disabled   context     
+
+     specific  $  example ' ignored   
+
+  release
